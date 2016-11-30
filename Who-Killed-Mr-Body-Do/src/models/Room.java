@@ -22,4 +22,8 @@ public class Room {
 	public void setSecretPassage(Room room) {
 		_secretPassage = room;
 	}
+	
+	public void addPlayerToRoom() {
+		
+	}
 }
