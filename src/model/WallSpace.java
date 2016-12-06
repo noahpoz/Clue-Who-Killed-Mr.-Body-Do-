@@ -23,8 +23,7 @@ public class WallSpace implements BoardSpace {
 	}
 
 	@Override
-	public boolean setContainsPlayer(boolean b) {
+	public void setContainsPlayer(boolean b) {
 		// TODO Auto-generated method stub
-		return false;
 	}
 }

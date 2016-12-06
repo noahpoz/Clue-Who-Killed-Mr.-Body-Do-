@@ -24,9 +24,8 @@ public class HallSpace implements BoardSpace {
 	}
 
 	@Override
-	public boolean setContainsPlayer(boolean b) {
-		// TODO Auto-generated method stub
-		return false;
+	public void setContainsPlayer(boolean b) {
+		_containsPlayer = b;
 	}
 
 }

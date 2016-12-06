@@ -324,7 +324,7 @@ public class Game {
 
 		Player currentPlayer = _players.get(_currentTurn);
 
-		if (isValidMoveLocation(p) && _gameState == 1) {
+		if (isValidMoveLocation(p) && _gameState == 1 && !_board.getBoard()[p.x][p.y].containsPlayer()) {
 
 			Point prevLoc = currentPlayer.getLocation();
 
