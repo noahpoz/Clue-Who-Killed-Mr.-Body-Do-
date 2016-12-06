@@ -1,0 +1,27 @@
+Ms. Scarlet
+Col. Mustard
+Mrs. White
+Rev. Green
+Mrs. Peacock
+Prof. Plum
+END
+Candlestick
+Poison
+Rope
+Gloves
+Horseshoe
+Knife
+Lead Pipe
+Revolver
+Wrench
+END
+Study
+Hall
+Lounge
+Dining Room
+Kitchen
+Ballroom
+Conservatory
+Billiard Room
+Library
+END
